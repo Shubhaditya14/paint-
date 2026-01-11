@@ -1,0 +1,3 @@
+/Users/shubhaditya/Desktop/everything/projects/paint/build/CMakeFiles/Paint.dir
+/Users/shubhaditya/Desktop/everything/projects/paint/build/CMakeFiles/edit_cache.dir
+/Users/shubhaditya/Desktop/everything/projects/paint/build/CMakeFiles/rebuild_cache.dir
