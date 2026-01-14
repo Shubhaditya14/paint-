@@ -6,7 +6,7 @@ CXX_DEFINES =
 
 CXX_INCLUDES = -I/Users/shubhaditya/Desktop/everything/projects/paint/include -isystem /usr/local/include
 
-CXX_FLAGSx86_64 = -std=gnu++17 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX26.2.sdk
+CXX_FLAGSx86_64 = -g -std=gnu++17 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX26.2.sdk
 
-CXX_FLAGS = -std=gnu++17 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX26.2.sdk
+CXX_FLAGS = -g -std=gnu++17 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX26.2.sdk
 

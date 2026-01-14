@@ -818,6 +818,7 @@ CMakeFiles/Paint.dir/src/main.cpp.o: /Users/shubhaditya/Desktop/everything/proje
   /Library/Developer/CommandLineTools/usr/lib/clang/17/include/stdarg.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/17/include/stddef.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/17/include/stdint.h \
+  /Users/shubhaditya/Desktop/everything/projects/paint/include/config.hpp \
   /usr/local/include/SFML/Config.hpp \
   /usr/local/include/SFML/Graphics.hpp \
   /usr/local/include/SFML/Graphics/BlendMode.hpp \
@@ -1761,6 +1762,8 @@ CMakeFiles/Paint.dir/src/main.cpp.o: /Users/shubhaditya/Desktop/everything/proje
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.2.sdk/usr/include/c++/v1/__memory/auto_ptr.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.2.sdk/usr/include/c++/v1/__algorithm/comp_ref_type.h:
+
+/Users/shubhaditya/Desktop/everything/projects/paint/include/config.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.2.sdk/usr/include/c++/v1/__memory/array_cookie.h:
 
